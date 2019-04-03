@@ -6,3 +6,5 @@ Batsman list:
 2.Rohit Sharma
 3.Suresh Raina
 4.Yuvraj Singh
+5.MS Dhoni
+6.Hardik Pandya
